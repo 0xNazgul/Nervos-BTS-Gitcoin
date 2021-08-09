@@ -33,18 +33,18 @@ Gitcoin: 6) Use Force Bridge To Deposit Tokens From Ethereum To Polyjuice<br/>
 Link: https://gitcoin.co/issue/nervosnetwork/grants/7/100026213<br/>
 06 Submission: https://github.com/PostMan56/Nervos-BTS-Gitcoin/tree/main/Nervos-06
 
-Gitcoin: 7) Port An Existing Ethereum DApp To Polyjuice
-Link: https://gitcoin.co/issue/nervosnetwork/grants/8/100026214
+Gitcoin: 7) Port An Existing Ethereum DApp To Polyjuice<br/>
+Link: https://gitcoin.co/issue/nervosnetwork/grants/8/100026214 <br/>
 07 Submission:
 
-Gitcoin: 8) Modify The Ported DApp So It Supports Ethereum Assets Via Force Bridge
-Link: https://gitcoin.co/issue/nervosnetwork/grants/9/100026215
+Gitcoin: 8) Modify The Ported DApp So It Supports Ethereum Assets Via Force Bridge<br/>
+Link: https://gitcoin.co/issue/nervosnetwork/grants/9/100026215<br/>
 08 Submission:
 
-Gitcoin: 9) Initiate Withdrawal Process From The Layer 2 Back To Layer 1
-Link: https://gitcoin.co/issue/nervosnetwork/grants/10/100026216
+Gitcoin: 9) Initiate Withdrawal Process From The Layer 2 Back To Layer 1<br/>
+Link: https://gitcoin.co/issue/nervosnetwork/grants/10/100026216<br/>
 09 Submission:
 
-Gitcoin: 10) Complete Withdrawal Process By Unlocking The Funds
-Link: https://gitcoin.co/issue/nervosnetwork/grants/11/100026217
+Gitcoin: 10) Complete Withdrawal Process By Unlocking The Funds<br/>
+Link: https://gitcoin.co/issue/nervosnetwork/grants/11/100026217<br/>
 10 Submission:
