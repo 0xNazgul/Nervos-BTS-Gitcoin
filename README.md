@@ -24,3 +24,7 @@ Gitcoin: 4) Issue An SUDT Token On Layer 1 And Deposit It To Layer 2<br/>
 Link: https://gitcoin.co/issue/nervosnetwork/grants/5/100026211
 <br/>
 04 Submission: https://github.com/PostMan56/Nervos-BTS-Gitcoin/tree/main/Nervos-04
+
+Gitcoin: 5) Deploy The ERC20 Proxy Contract For The Deposited SUDT<br/>
+Link: https://gitcoin.co/issue/nervosnetwork/grants/6/100026212 <br/>
+05 Submission: https://github.com/PostMan56/Nervos-BTS-Gitcoin/tree/main/Nervos-05
