@@ -28,3 +28,7 @@ Link: https://gitcoin.co/issue/nervosnetwork/grants/5/100026211
 Gitcoin: 5) Deploy The ERC20 Proxy Contract For The Deposited SUDT<br/>
 Link: https://gitcoin.co/issue/nervosnetwork/grants/6/100026212 <br/>
 05 Submission: https://github.com/PostMan56/Nervos-BTS-Gitcoin/tree/main/Nervos-05
+
+Gitcoin: 6) Use Force Bridge To Deposit Tokens From Ethereum To Polyjuice<br/>
+Link: https://gitcoin.co/issue/nervosnetwork/grants/7/100026213
+06 Submission: https://github.com/PostMan56/Nervos-BTS-Gitcoin/tree/main/Nervos-06
