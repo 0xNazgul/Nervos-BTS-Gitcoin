@@ -32,7 +32,7 @@ App = {
   },
   loadContract: async () => {
      try {
-			const todoContractAddr = '0xd0e2951371fB60C242Ef66Fcd63D7ff9e7A8d502'
+			const todoContractAddr = '0x63c47e07a7260a18f1bed78da4fe091ed66ebbd0'
 
 			const todoList = await $.getJSON('TodoList.json')
 			App.contracts.todoList = new web3.eth.Contract(todoList.abi, todoContractAddr)
